@@ -1,6 +1,6 @@
 👋 Hi, I'm Johnny
 
-📊 Passionate about financial/market data analysis, particularly in technical analysis and trading algorithms.
+📊 Passionate about financial/market data analysis, particularly in use of technical analysis to create trading algorithms.
 
 🧠 Enthusiast of AI and ML, currently delving into:
   - Deep Reinforcement Learning
