@@ -1,4 +1,4 @@
-# Hey, thanks for visiting I'm Johnny
+# Hey, thanks for visiting. I'm Johnny
 
 **Data Scientist | Problem Solver | Builder | Analytical Thinker**
 
