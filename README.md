@@ -1,12 +1,12 @@
 # Hey, I'm Johnny
 
-**Data Scientist | Quant Analyst | Problem Solver | Financial Market Professional**
+**Data Scientist/Quant Analyst | Problem Solver | Financial Market Professional**
 • [LinkedIn](https://www.linkedin.com/in/johnnyyfranklin) 
 
 ---
 
 ## 🚀 Professional Summary  
-Analytically strong **financial professional** with hands-on experience across **trading, data science, and quantitative risk** in multi-asset markets (equities, FX, derivatives). Skilled in **direct market access (DMA)** execution with VWAP, TWAP, and dark pool routing, plus in-depth knowledge of CFDs, options, structured products, and share dealing.  
+Analytically strong **financial professional** with hands-on experience across **trading, data science, and quantitative risk** in multi-asset markets (equities, FX, derivatives). Skilled in **direct market access (DMA)** execution with VWAP, TWAP, and dark pool routing, plus in-depth knowledge of CFDs, options, spreadbets, and share dealing.
 
 Bringing a **dual edge of markets & technology**, I’ve built trading algorithms, quantitative risk models, and AI/ML frameworks that solve business-critical challenges. Proficient in **Python, SQL, and Google Cloud (Vertex AI, BigQuery)**, I combine strong coding skills with market intuition to uncover opportunities, manage risk, and optimise strategies.  
 
