@@ -1,7 +1,7 @@
 # Hey, I'm Johnny
 
-** Trading | Financial Market Professional | Quant Analyst **
-• [LinkedIn](https://www.linkedin.com/in/johnnyyfranklin) 
+**Trading | Financial Market Professional | Quant Analyst**
+• [LinkedIn](https://linkedin.com/in/jonathonfranklin) 
 
 ---
 
