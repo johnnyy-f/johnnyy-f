@@ -1,6 +1,6 @@
 # Hey, I'm Johnny
 
-**Data Scientist/Quant Analyst | Problem Solver | Financial Market Professional**
+** Trading | Financial Market Professional | Quant Analyst**
 • [LinkedIn](https://www.linkedin.com/in/johnnyyfranklin) 
 
 ---
