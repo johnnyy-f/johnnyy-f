@@ -29,7 +29,7 @@ Comfortable in high-pressure environments, I thrive on **problem solving, collab
 ## 🏆 Areas of Expertise  
 - **Trading & Execution:** DMA (VWAP, TWAP, dark pools), order book dynamics, hedging, portfolio analytics  
 - **Quantitative Analysis:** Risk modelling (VaR, ES), time-series forecasting
-- **Financial Products:** Equities, FX, CFDs, options, ETFs, structured portfolios, futures  
+- **Financial Products:** Equities, FX, CFDs, options, ETFs, forwards, futures, swaps  
 - **Tech & Tools:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TaLib), SQL, GCP (BigQuery, Vertex AI), Bloomberg, Refinitiv, Git, API integration  
 - **Soft Skills:** Clear communicator, Leadership, cross-team collaboration, resilient under pressure, client relationship management  
 
