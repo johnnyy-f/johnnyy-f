@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Professional Summary  
-Analytically strong **data and financial trading professional** with hands-on experience across **data science, machine learning, equity dealing and quantitative risk** .  Skilled in **direct market access (DMA)** execution with VWAP, TWAP, and dark pool routing, plus in-depth knowledge of derivatives including CFDs, options, spreadbets and more.
+Analytically strong **data and financial trading professional** with hands-on experience across **equity dealing, quantitative analytics, data science and machine learning** .  Skilled in **direct market access (DMA)** execution with VWAP, TWAP, and dark pool routing, plus in-depth knowledge of derivatives including CFDs, options, spreadbets and more.
 
 Bringing a **dual edge of markets & technology**, I’ve built AI/ML frameworks that solve business-critical challenges, trading algorithms and quantitative risk models. Proficient in **Python, SQL, and Google Cloud (Vertex AI, BigQuery)**, I combine strong coding skills with market knowledge to optimise workflow and processes.  
 
