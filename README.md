@@ -2,7 +2,7 @@
 
 # Hey, I'm Johnny
 
-**Data Scientist | Financial Trading Professional**
+**Financial Trading Professional | Equity Dealer & Quantitative Data Science | Ex-IG Group**
 
 
 • [LinkedIn](https://linkedin.com/in/jonathonfranklin) 
@@ -61,7 +61,7 @@ Comfortable in high-pressure environments, I thrive on **problem solving, collab
 ---
 
 ## 🤝 Let’s Connect
-I’m open to collaboration, freelance opportunities, or full-time roles where I can make a real impact with data.
+I’m open to collaboration, freelance opportunities, or full-time roles where I can make a real impact.
 
 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/johnnyyfranklin)** 📫 **jfranklinn08@gmail.com** 
 💻 Explore my projects in this GitHub profile
