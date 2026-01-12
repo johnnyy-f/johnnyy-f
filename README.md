@@ -56,7 +56,7 @@ Comfortable in high-pressure environments, I thrive on **problem solving, collab
 - Hugging Face Deep Reinforcement Learning Course  
 - Using ML in Trading & Finance (Coursera)  
 - KX Introductory Workshop
-- FRM Part 1 (in progress)  
+- FRM Level 1 Passed (2221)
 
 ---
 
